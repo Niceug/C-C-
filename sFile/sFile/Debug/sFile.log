@@ -1,0 +1,7 @@
+﻿  sFileDlg.cpp
+c:\users\hasee\documents\visual studio 2015\projects\sfile\sfile\sfiledlg.cpp(112): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: 参见“gethostbyname”的声明
+c:\users\hasee\documents\visual studio 2015\projects\sfile\sfile\sfiledlg.cpp(113): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+  sFile.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\sFile\Debug\sFile.exe
+  sFile.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\sFile\Debug\sFile.pdb (Full PDB)

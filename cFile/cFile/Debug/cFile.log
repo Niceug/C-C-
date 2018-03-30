@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+d:\vs2015\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  d:\vs2015\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  cFileDlg.cpp
+c:\users\hasee\documents\visual studio 2015\projects\cfile\cfile\cfiledlg.cpp(228): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+  cFile.cpp
+  正在生成代码...
+  cFile.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\cFile\Debug\cFile.exe
+  cFile.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\cFile\Debug\cFile.pdb (Full PDB)
