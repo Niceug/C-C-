@@ -1,0 +1,7 @@
+﻿  test.c
+c:\users\hasee\documents\visual studio 2015\projects\注释转换\注释转换\test.c(36): warning C4013: “strcpy”未定义；假设外部返回 int
+c:\users\hasee\documents\visual studio 2015\projects\注释转换\注释转换\test.c(47): warning C4013: “strcat”未定义；假设外部返回 int
+c:\users\hasee\documents\visual studio 2015\projects\注释转换\注释转换\test.c(51): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+c:\users\hasee\documents\visual studio 2015\projects\注释转换\注释转换\test.c(51): warning C4024: “fopen”: 形参和实参 1 的类型不同
+  注释转换.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\注释转换\Debug\注释转换.exe
+  注释转换.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\注释转换\Debug\注释转换.pdb (Full PDB)
