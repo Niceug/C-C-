@@ -1,0 +1,7 @@
+﻿  ThreedChick.c
+c:\users\hasee\documents\visual studio 2015\projects\threechick\threechick\threedchick.c(49): warning C4013: “ComputerHas2”未定义；假设外部返回 int
+c:\users\hasee\documents\visual studio 2015\projects\threechick\threechick\threedchick.c(53): warning C4013: “playerHas2”未定义；假设外部返回 int
+c:\users\hasee\documents\visual studio 2015\projects\threechick\threechick\threedchick.c(59): warning C4013: “rand”未定义；假设外部返回 int
+c:\users\hasee\documents\visual studio 2015\projects\threechick\threechick\threedchick.c(447): warning C4013: “srand”未定义；假设外部返回 int
+  ThreeChick.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\ThreeChick\Debug\ThreeChick.exe
+  ThreeChick.vcxproj -> C:\Users\hasee\Documents\Visual Studio 2015\Projects\ThreeChick\Debug\ThreeChick.pdb (Full PDB)
